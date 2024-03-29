@@ -1,6 +1,6 @@
 # Stopwatch_timer
 
-# Stopwatch Timer
+
 Stopwatch timer on JS
 
 
